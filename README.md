@@ -1,6 +1,6 @@
-# Arthika: Agentic AI Financial Companion for Women
+# Arthika: Agentic AI Financial Companion 
 
-**Arthika** is an agentic AI-based financial companion built to advance financial inclusion for underserved women in India. It offers accessible investment guidance, business planning, and community support via secure, personalized experiences powered by modular AI agents.
+**Arthika** is an agentic AI-based financial companion built to advance financial inclusion. It offers accessible investment guidance, business planning, and community support via secure, personalized experiences powered by modular AI agents.
 
 ---
 
